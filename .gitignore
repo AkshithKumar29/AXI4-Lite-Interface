@@ -1,0 +1,33 @@
+# Simulation files
+*.vcd
+*.wdb
+*.jou
+*.log
+*.pb
+*.wlf
+transcript
+work/
+sim/
+*.vvp
+
+# Vivado files
+*.jou
+*.log
+*.backup.*
+*.debug
+*.rpt
+*.dcp
+*.bit
+*.ltx
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.xpr
+.Xil/
+
+# OS files
+.DS_Store
+Thumbs.db
+*~
